@@ -1,0 +1,5 @@
+.DS_Store
+*.bin
+*.pdf
+/node_modules
+*.json
